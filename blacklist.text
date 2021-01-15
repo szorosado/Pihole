@@ -1,0 +1,15 @@
+/etc/pihole/adlists.list
+
+2a02:908:e845:afc0:1969:825b:6f4d:53a3
+2a02:908:e845:afc0:1969:825b:6f4d:53a3
+2a02:908:e845:afc0:1969:825b:6f4d:53a3
+
+https://raw.githubusercontent.com/CamelCase11/UnifiedHosts/master/hosts.all
+https://easylist.to/easylist/easylist.txt
+https://v.firebog.net/hosts/Easyprivacy.txt
+https://v.firebog.net/hosts/Prigent-Ads.txt
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/TOP_EU_US_Ads_Trackers_HOST
